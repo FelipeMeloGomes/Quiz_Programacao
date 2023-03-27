@@ -1,7 +1,7 @@
 <h1 align="center"> Quiz de Programação </h1>
 
 <p align="center">
-Uma Quiz de programação. <br/>
+Um Quiz de programação. <br/>
 </p>
 
 
