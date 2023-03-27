@@ -1,7 +1,7 @@
-<h1 align="center"> FM Burger </h1>
+<h1 align="center"> Quiz de Programação </h1>
 
 <p align="center">
-Uma Loja fictícia de Hamburguês. <br/>
+Uma Quiz de programação. <br/>
 </p>
 
 
